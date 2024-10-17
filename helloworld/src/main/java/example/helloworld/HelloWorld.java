@@ -24,7 +24,7 @@ public class HelloWorld implements BurpExtension
         Logging logging = api.logging();
 
         // write a message to our output stream
-        logging.logToOutput("Hello output.");
+        logging.logToOutput("Hello gg");
 
         // write a message to our error stream
         logging.logToError("Hello error.");
